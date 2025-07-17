@@ -1,3 +1,3 @@
 # Previsao-INPC
 
-## O Código utilizado no desenvolvimento deste trabalho estará disponível no dia 07/07.
+## O Código utilizado no desenvolvimento deste trabalho está disponível no arquivo TidyModels.R
